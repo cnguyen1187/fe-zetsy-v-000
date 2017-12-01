@@ -22,6 +22,10 @@ body {
 }
 
 /* Write all remaining styles here */
+h1 {
+	color: rgb(150, 173, 166);
+	font-size: 5em;
+}
 
 h2 {
 	color: rgb(111, 127, 122);
