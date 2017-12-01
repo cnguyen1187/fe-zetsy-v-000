@@ -31,7 +31,9 @@ h2 {
 	font-size: 2em;
 }
 
-
+#link.img {
+	border-color: rgb(204, 204, 204);
+}
 /* 204	204	204*/
 
 #legal {
