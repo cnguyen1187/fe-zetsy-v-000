@@ -33,11 +33,11 @@ h2 {
 /* link border 204	204	204*/
 
 img {
-	border:5px solid rgb(150, 173, 166);
+	border:5px solid rgb(204, 204, 204);
 }
 
 .img {
-	border:5px solid rgb(204, 204, 204);
+	border:5px solid rgb(150, 173, 166);
 }
 
 footer {
