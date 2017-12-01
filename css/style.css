@@ -32,10 +32,6 @@ h2 {
 
 /* link border 204	204	204*/
 
-#legal {
+footer {
 	float: right;
-}
-
-p #legal {
-	font-size: 10px;
 }
