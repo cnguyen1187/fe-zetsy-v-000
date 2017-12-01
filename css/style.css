@@ -1,6 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+h1 {
+	color: rgb(150, 173, 166);
+	font-size: 5em;
+}
 
 /*////////// Global Styles //////////*/
 
@@ -20,10 +24,6 @@ body {
 /* Write all remaining styles here */
 
 /* h1 & img border*/
-h1 {
-	color: rgb(150, 173, 166);
-	font-size: 5em;
-}
 
 /*h2*/
 h2 {
@@ -31,8 +31,7 @@ h2 {
 	font-size: 2em;
 }
 
-.links {
-	border-color: rgb(204, 204, 204);
+
 }
 /* 204	204	204*/
 
