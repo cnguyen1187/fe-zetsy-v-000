@@ -41,6 +41,6 @@ img {
 }
 
 footer {
-	float: right;
+	text-align: right;
 	font-size: 13px;
 }
