@@ -19,6 +19,18 @@ body {
 
 /* Write all remaining styles here */
 
-.legal {
+/* h1 & img border*/
+150	173	166
+
+/*h2*/
+h2 {
+	border-color: 110, 127, 122;	
+}
+110	127	122
+
+/*links border*/
+204	204	204
+
+#legal {
 	float: right;
 }
