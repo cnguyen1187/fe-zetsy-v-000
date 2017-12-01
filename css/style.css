@@ -35,6 +35,10 @@ header a:hover {
 	color: rgb(111, 127, 122);
 }
 
+p a {
+	color: blue;
+}
+
 h2 {
 	color: rgb(111, 127, 122);
 	font-size: 2em;
