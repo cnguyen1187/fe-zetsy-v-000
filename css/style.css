@@ -19,6 +19,6 @@ body {
 
 /* Write all remaining styles here */
 
-#legal {
+.legal {
 	float: right;
 }
