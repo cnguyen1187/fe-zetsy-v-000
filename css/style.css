@@ -31,9 +31,10 @@ h2 {
 }
 
 /* link border 204	204	204*/
-.links {
+.img {
 	border:5px solid rgb(204, 204, 204);
 }
+
 .img_1 {
 	border:5px solid rgb(150, 173, 166);
 }
