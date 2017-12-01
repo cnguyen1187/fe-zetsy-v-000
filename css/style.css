@@ -37,7 +37,7 @@ h2 {
 }
 
 #press img:hover {
-	color: 5px solid rgb(111, 127, 122);
+	border: 5px solid rgb(111, 127, 122);
 }
 
 .img {
