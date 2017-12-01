@@ -4,6 +4,7 @@
 h1 {
 	color: rgb(150, 173, 166);
 	font-size: 5em;
+	text-decoration: none;
 }
 
 /*////////// Global Styles //////////*/
@@ -23,9 +24,6 @@ body {
 
 /* Write all remaining styles here */
 
-/* h1 & img border*/
-
-/*h2*/
 h2 {
 	color: rgb(111, 127, 122);
 	font-size: 2em;
@@ -33,7 +31,7 @@ h2 {
 
 
 }
-/* 204	204	204*/
+/* link border 204	204	204*/
 
 #legal {
 	float: right;
