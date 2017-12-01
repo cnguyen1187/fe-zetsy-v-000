@@ -20,14 +20,17 @@ body {
 /* Write all remaining styles here */
 
 /* h1 & img border*/
-150	173	166
+h1 {
+	color: 150, 173, 166;
+	font: 1em:
+}
 
 /*h2*/
 h2 {
 	color: 111, 127, 122;
 	font-size: 2em;
 }
-110	127	122
+
 
 /*links border*/
 204	204	204
