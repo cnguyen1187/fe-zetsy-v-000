@@ -31,6 +31,9 @@ h2 {
 }
 
 /* link border 204	204	204*/
+img {
+	border: 10px solid #021a40;
+}
 
 footer {
 	float: right;
